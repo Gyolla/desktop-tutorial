@@ -10,3 +10,4 @@ SMAN 1 Tanjung
 Muhammad Zidny Nabil
 Rachel Aurora Azzahra
 Yumna Azzahra
+Risna Ramadhani
